@@ -1,2 +1,1 @@
-# alx-backend-user-data
-Repository for alx-backend-user-data Projects.
+Repository for alx-backend-user-data projects.
